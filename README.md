@@ -1,6 +1,6 @@
 # C23 실습 환경
 
-[C23 실습 환경 바로 열기](https://codespaces.new/KukInJang/c23-lab)를 누르고 GitHub에 로그인한 뒤 **Create codespace**를 선택하세요. 저장소 페이지에서 시작하려면 **Use this template → Open in a codespace**를 선택하세요. 브라우저에 편집기가 열리면 왼쪽 파일 목록에서 `main.c`를 엽니다.
+[C23 실습 환경 바로 열기](https://codespaces.new/KukInJang/c23-lab)를 누르고 GitHub에 로그인한 뒤 **Create new codespace**를 선택하세요. 저장소 페이지에서 시작하려면 **Use this template → Open in a codespace**를 선택하세요. 브라우저에 편집기가 열리면 왼쪽 파일 목록에서 `main.c`를 엽니다.
 
 ## 첫 실행
 
