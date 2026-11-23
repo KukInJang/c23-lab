@@ -1,0 +1,9 @@
+* text=auto
+*.c text eol=lf
+*.in text eol=lf
+*.out text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.docx binary
+*.pdf binary
+*.pptx binary
